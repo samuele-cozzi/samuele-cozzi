@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://simpleicons.org/
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
 ### 🌱 I’m currently learning
