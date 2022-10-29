@@ -6,14 +6,14 @@
     </defs>
     <style>
     .primary { fill:#000 }
-    .secondary { fill:#fff }
+    .secondary { fill:#ff6600 }
     .third { fill:#fff }
     </style>
     <rect x="0" y="0" width="100" height="100" class="third" />
 
-    <rect x="0" y="0" width="50" height="50" class="primary" />
-    <rect x="0" y="50" width="50" height="50" class="primary" />
-    <rect x="50" y="50" width="50" height="50" class="primary" />
+    <rect x="0" y="0" width="50" height="50" class="primary" stroke-width="0"/>
+    <rect x="0" y="50" width="50" height="50" class="primary" stroke-width="0"/>
+    <rect x="50" y="50" width="50" height="50" class="primary" stroke-width="0"/>
 
     <rect x="50" y="0" width="25" height="25" class="primary" />
     <rect x="50" y="25" width="25" height="25" class="primary" />
