@@ -19,17 +19,30 @@ https://simpleicons.org/
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
+---
+
+### 💬 Ask me about
+
+[![](https://img.shields.io/static/v1?label=&message=dotnet&color=512BD4&style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/en-us/) 
+[![](https://img.shields.io/static/v1?label=&message=sql%20server&color=CC2927&style=for-the-badge&logo=microsoftsqlserver)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) 
+[![](https://img.shields.io/static/v1?label=&message=azure&color=0078D4&style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/en-us) 
+[![](https://img.shields.io/static/v1?label=&message=azure%20devops&color=0078D4&style=for-the-badge&logo=azuredevops)](https://azure.microsoft.com/en-us/products/devops) 
+[![](https://img.shields.io/static/v1?label=&message=microsoft&color=5E5E5E&style=for-the-badge&logo=microsoft)](https://www.microsoft.com/it-it/) 
+
+---
+
 ### 🌱 I’m currently learning
 
-<img align="left" alt="dotnet" src="https://img.shields.io/badge/dotnet%20-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=%#white" />
-<img align="left" alt="sql server" src="https://img.shields.io/badge/sql%20server%20-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img align="left" alt="azure" src="https://img.shields.io/badge/azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
-<img align="left" alt="azure devops" src="https://img.shields.io/badge/azure%20devops-0078D7.svg?&style=for-the-badge&logo=azuredevops&logoColor=white" />
-<img align="left" alt="angular" src="https://img.shields.io/badge/angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+[![](https://img.shields.io/static/v1?label=&message=dapr&color=0d2192&style=for-the-badge&logo=dapr&logoColor=white)](https://dapr.io/) 
+[![](https://img.shields.io/static/v1?label=&message=airflow&color=017cee&style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/) 
+[![](https://img.shields.io/static/v1?label=&message=flutter&color=02569b&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) 
+[![](https://img.shields.io/static/v1?label=&message=power%20apps&color=742774&style=for-the-badge&logo=powerapps&logoColor=white)](https://powerapps.microsoft.com/en-us/)
+[![](https://img.shields.io/static/v1?label=&message=home%20assistant%20apps&color=41BDF5&style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
 
-<br />
+---
 
 ### 📫 How to reach me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://bit.ly/3osUk3O)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://bit.ly/3KWySNJ)
+[![](https://img.shields.io/static/v1?label=&message=hackster&color=2E9FE6&style=for-the-badge&logo=hackster&logoColor=white)](https://www.hackster.io/samuele-cozzi) 
+
