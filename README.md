@@ -43,6 +43,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ### 📫 How to reach me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://bit.ly/3osUk3O)
+[![](https://img.shields.io/static/v1?label=&message=blog&color=E67300&style=for-the-badge&logo=hugo&logoColor=white)](https://samuele-cozzi-io.github.io/website/)
+[![](https://img.shields.io/static/v1?label=&message=linkedin&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3osUk3O)
 [![](https://img.shields.io/static/v1?label=&message=hackster&color=2E9FE6&style=for-the-badge&logo=hackster&logoColor=white)](https://www.hackster.io/samuele-cozzi) 
 
