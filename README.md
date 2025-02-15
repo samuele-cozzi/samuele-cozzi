@@ -43,7 +43,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 [![](https://img.shields.io/static/v1?label=&message=n8n&color=EA4B71&style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![](https://img.shields.io/static/v1?label=&message=ollama&color=000000&style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/) 
 [![](https://img.shields.io/static/v1?label=&message=anaconda&color=44A833&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-[![](https://img.shields.io/static/v1?label=&message=home%20assistant%20apps&color=41BDF5&style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
+[![](https://img.shields.io/static/v1?label=&message=home%20assistant&color=41BDF5&style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
 
 ---
 
