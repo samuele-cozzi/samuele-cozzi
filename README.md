@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Samuele Cozzi
 
-### Software Craftsman | Cloud & Web Architect | Microsoft Tech Enthusiast
+### Software Craftsman | Cloud & Web Architect | Microsoft Tech Expert
 
 With 15+ years of experience, I specialize in crafting innovative solutions using Microsoft technologies. As a professional developer of web applications and cloud architectures, I ensure scalable, high-quality software. I follow Agile and DevOps methodologies to streamline the development lifecycle and drive continuous improvement.
 
