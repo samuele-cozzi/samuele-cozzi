@@ -1,6 +1,10 @@
 ## Hi there 👋, I'm Samuele Cozzi
 
-With 15+ years of experience, I specialize in crafting innovative solutions using Microsoft technologies. As a professional developer of web applications and cloud architectures, I ensure scalable, high-quality software. I follow Agile and DevOps methodologies to streamline the development lifecycle and drive continuous improvement.
+With 15+ years of experience, I specialize in crafting innovative solutions using Microsoft technologies. 
+As a professional engineer of web applications and cloud architectures, I ensure scalable, high-quality software. 
+I love exploring new technologies and applying them to real-world problems. When I'm not coding, you can find me tinkering with home automation projects or enjoying a good book.
+
+![Samuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuele-cozzi&show_icons=true&theme=radical)
 
 💡 Passionate about clean code, cutting-edge tech, and building impactful solutions.
 
@@ -24,14 +28,14 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ---
 
-### 💬 Ask me about
+### 🔧 Technologies & Tools
 
-[![](https://img.shields.io/static/v1?label=&message=dotnet&color=512BD4&style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/en-us/) 
-[![](https://img.shields.io/static/v1?label=&message=sql%20server&color=CC2927&style=for-the-badge&logo=microsoftsqlserver)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) 
-[![](https://img.shields.io/static/v1?label=&message=azure&color=0078D4&style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/en-us) 
-[![](https://img.shields.io/static/v1?label=&message=github%20actions&color=2088FF&style=for-the-badge&logo=githubactions)](https://docs.github.com/en/actions) 
-[![](https://img.shields.io/static/v1?label=&message=kubernetes&color=326CE5&style=for-the-badge&logo=kubernetes)](https://kubernetes.io/) 
-[![](https://img.shields.io/static/v1?label=&message=obsidian&color=7C3AED&style=for-the-badge&logo=obsidian)](https://obsidian.md/)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
 
@@ -50,4 +54,3 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 [![](https://img.shields.io/static/v1?label=&message=blog&color=E67300&style=for-the-badge&logo=hugo&logoColor=white)](https://samuele-cozzi-io.github.io/website/)
 [![](https://img.shields.io/static/v1?label=&message=linkedin&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3osUk3O)
 [![](https://img.shields.io/static/v1?label=&message=hackster&color=2E9FE6&style=for-the-badge&logo=hackster&logoColor=white)](https://www.hackster.io/samuele-cozzi) 
-
